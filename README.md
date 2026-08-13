@@ -16,3 +16,5 @@
     <img src="https://img.shields.io/badge/License-MIT-ff69b4.svg?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
   </a>
 </p>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=millamgl.millamgl&left_color=%23ff69b4&right_color=%23ff69b4)
